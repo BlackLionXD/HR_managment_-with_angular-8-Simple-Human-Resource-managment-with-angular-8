@@ -1,4 +1,4 @@
-# Simple Human Resourse Managment ( HR_managment ) website with Angular 8
+# HR_managment_with_angular8/ Human Resourse Managment with angular 8
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.0.
 
