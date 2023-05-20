@@ -8,12 +8,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Need to install
 - NVM ( node version manager )
-- install node 10.9.0( for angular 8 ) and latest node version for jason-server on NVM.
-- install angular 8 / angular material / json-server
+- install node 10.9.0 for angular 8  and latest node version for jason-server on NVM ( type nvm install 10.9.0 and nvm install node on CMD)
+-  switch to node 10.9.0 using ( nvm use 10.9.0 ) and install node modules ( npm install )
 
-## json - server installation 
-
-Run `npm -i json-server` to install
 
 ## Use NVM (node version manager ) to start json-server
 
