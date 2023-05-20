@@ -6,6 +6,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Need to install
+- NVM ( node version manager )
+- install node 10.9.0( for angular 8 ) and latest node version for jason-server on NVM.
+- install angular 8 / angular material / json-server
+
 ## json - server installation 
 
 Run `npm -i json-server` to install
